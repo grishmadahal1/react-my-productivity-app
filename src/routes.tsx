@@ -61,8 +61,8 @@ export const router = createBrowserRouter([
         <div className="text-center">
           <h1 className="text-6xl font-bold text-gray-900 dark:text-white mb-4">404</h1>
           <p className="text-xl text-gray-600 dark:text-gray-400 mb-6">Page not found</p>
-          <a 
-            href="/dashboard" 
+          <a
+            href="/dashboard"
             className="inline-block px-4 py-2 rounded-md font-medium transition-colors duration-200 bg-primary-600 text-white hover:bg-primary-700"
           >
             Go to Dashboard
